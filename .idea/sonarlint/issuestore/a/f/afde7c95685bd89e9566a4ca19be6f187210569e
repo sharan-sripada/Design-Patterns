@@ -1,0 +1,4 @@
+
+n
+java:S2975""SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ñÂ§ãúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºäôÍ
